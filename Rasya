@@ -1,3 +1,9 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Tue Jan  4 13:00:41 2022
+
+@author: asus
+"""
 import sys
 
 def main():
